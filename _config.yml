@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "James Zhou"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Master of Computer Technology"
   location         : "Beijing, China"
-  employer         : "Beijing University of Posts and Telecommunications"
+  employer         : "BUPT"
   uri              : # URL
   email            : "zihanzhou0112@gmail.com" 
 
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  csdn             : "https://blog.csdn.net/JamesZhou13?spm=1018.2226.3001.5343"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
