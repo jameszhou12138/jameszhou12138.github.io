@@ -1,10 +1,10 @@
 ---
-permalink: /about_zh/
+permalink: /zh/
 title: "关于我"
 author_profile: true
 redirect_from: 
-  - /about_zh/
-  - /about_zh.html
+  - /zh/about/
+  - /zh/about.html
 ---
 
 我是周子涵，一名计算机专业硕士研究生。我的主要研究方向是自动驾驶和仿生机器人。
