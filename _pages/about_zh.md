@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_zh/
 title: "关于我"
 author_profile: true
 redirect_from: 
