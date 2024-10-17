@@ -79,6 +79,9 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
+      {% if author.csdn %}
+      <li><a href="{{ author.csdn }}"><i class="fab fa-fw fa-copyright icon-pad-right" aria-hidden="true"></i>CSDN</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
@@ -151,8 +154,11 @@
         <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
       {% if author.zhihu %}
-      <li><a href="htps://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      {% endif %}
+      {% if author.xiaohongshu %}
+      <li><a href="{{ author.xiaohongshu }}"><i style='color:red' class="fab fa-fw fa-book-open icon-pad-right" aria-hidden="true"></i>XiaoHongShu</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>

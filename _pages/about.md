@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Zhou, a master of computer Science student. My main research direction is self driving and bionic robots.
+I'm James Zhou, a master student, majaring in Computer Technology. My main research direction is self driving and bionic robots.
 
 ### Educational experience
 
 | Time | Degree | University | Major |
-| ---- | ---- | ---- | ---- |
+| ---- | :----: | ---- | ---- |
 | 2020.9 ~ 2024.7 | Bachelor | Beijing Forestry University | Computer Science and Technology |
 | 2024.9 ~ now | Master | Beijing University of Posts and Telecommunications | Computer Technology |
 
@@ -21,7 +21,7 @@ I'm James Zhou, a master of computer Science student. My main research direction
 Some honors and awards in the last two years are shown as follows.
 
 | Time | Competition / Honor | Award | Level |
-| :----: | ---- | ---- | ---- |
+| :----: | ---- | :----: | :----: |
 | 2024 | Beijing Excellent Bachelor Graduation Thesis | -- | Beijing |
 | 2024 | Group Programming Ladder Tournament (CCCC-GPLT) | First Prize | National |
 | 2024 | Baidu Apollo Spark Autonomous Driving Competition | Third Prize | Beijing |
