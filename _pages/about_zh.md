@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "关于我"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,22 +18,23 @@ redirect_from:
 
 
 ### 荣誉奖项
-下表展示了本人近两年的一些荣誉奖项。
+本人近两年的一些荣誉奖项：
 
-| 时间 | 比赛/荣誉 | 等级 | 等级 |
+| 时间 | 比赛/荣誉 | 奖项 | 等级 |
 | :----: | ---- | :----: | :----: |
 | 2024 | 北京市优秀本科毕业论文 | -- | 北京市级 |
-| 2024 | 大学生程序设计天梯赛（CCCC-GPLT） | 一等奖 | National |
-| 2024 | Baidu Apollo Spark Autonomous Driving Competition | Third Prize | Beijing |
-| 2023 | Group Programming Ladder Tournament (CCCC-GPLT) | First Prize | National |
-| 2023 | China Collegiate Programming Contest, Harbin Site (CCPC) | Silver Medal | National |
-| 2023 | ICPC Asia Shenyang Regional Contest | Bronze Medal | National |
-| 2023 | ICPC Asia Xi'an Regional Contest | Bronze Medal | National |
-| 2023 | Interdisciplinary Contest In Modeling | Honorable Mention | International |
-| 2023 | RAICOM Robot Developer Competition | Second Prize | National |
-| 2023 |  "Challenge Cup" National College Student Business Plan Competition | Bronze Medal | National |
+| 2024 | 团体程序设计天梯赛（CCCC-GPLT） | 一等奖 | 国家级 |
+| 2024 | 百度Apollo星火自动驾驶竞赛 | 三等奖 | 北京市级 |
+| 2023 | 团体程序设计天梯赛（CCCC-GPLT） | 一等奖 | 国家级 |
+| 2023 | 中国大学生程序设计竞赛（CCPC）哈尔滨站 | 银牌 | 国家级 |
+| 2023 | 国际大学生程序设计竞赛（ICPC）亚洲区域赛沈阳站 | 铜牌 | 国家级 |
+| 2023 | 国际大学生程序设计竞赛（ICPC）亚洲区域赛西安站 | 铜牌 | 国家级 |
+| 2023 | 美国大学生数学建模竞赛（ICM） | 二等奖 | 国际级 |
+| 2023 | 睿抗机器人开发者大赛（RAICOM） | 二等奖 | 国家级 |
+| 2023 | “挑战杯”大学生创业计划竞赛 | 三等奖 | 国家级 |
 
-**其他语言版本: [English](README.md), [中文](README_zh.md).**
+**其他语言版本: [English](about.md), [中文](about_zh.md).**
+
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
