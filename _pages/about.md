@@ -19,6 +19,7 @@ I'm James Zhou, a master of computer Science student. My main research direction
 
 ### Honors && Awards
 Some honors and awards in the last two years are shown as follows.
+
 | Time | Competition / Honor | Award | Level |
 | :----: | ---- | ---- | ---- |
 | 2024 | Beijing Excellent Bachelor Graduation Thesis | -- | Beijing |
