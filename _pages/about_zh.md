@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Zhou, a master student, majaring in Computer Technology. My main research direction is self driving and bionic robots.
+我是周子涵，一名计算机专业硕士研究生。我的主要研究方向是自动驾驶和仿生机器人。
 
-### Educational experience
+### 教育经历
 
-| Time | Degree | University | Major |
+| 时间 | 学位 | 学校 | 专业 |
 | ---- | :----: | ---- | ---- |
-| 2020.9 ~ 2024.7 | Bachelor | Beijing Forestry University | Computer Science and Technology |
-| 2024.9 ~ now | Master | Beijing University of Posts and Telecommunications | Computer Technology |
+| 2020.9 ~ 2024.7 | 学士 | 北京林业大学 | 计算机科学与技术 |
+| 2024.9 ~ 今 | 硕士 | 北京邮电大学 | 计算机技术 |
 
 
-### Honors && Awards
-Some honors and awards in the last two years are shown as follows.
+### 荣誉奖项
+下表展示了本人近两年的一些荣誉奖项。
 
-| Time | Competition / Honor | Award | Level |
+| 时间 | 比赛/荣誉 | 等级 | 等级 |
 | :----: | ---- | :----: | :----: |
-| 2024 | Beijing Excellent Bachelor Graduation Thesis | -- | Beijing |
-| 2024 | Group Programming Ladder Tournament (CCCC-GPLT) | First Prize | National |
+| 2024 | 北京市优秀本科毕业论文 | -- | 北京市级 |
+| 2024 | 大学生程序设计天梯赛（CCCC-GPLT） | 一等奖 | National |
 | 2024 | Baidu Apollo Spark Autonomous Driving Competition | Third Prize | Beijing |
 | 2023 | Group Programming Ladder Tournament (CCCC-GPLT) | First Prize | National |
 | 2023 | China Collegiate Programming Contest, Harbin Site (CCPC) | Silver Medal | National |
@@ -33,7 +33,7 @@ Some honors and awards in the last two years are shown as follows.
 | 2023 | RAICOM Robot Developer Competition | Second Prize | National |
 | 2023 |  "Challenge Cup" National College Student Business Plan Competition | Bronze Medal | National |
 
-**Read this in other languages: [English](about.md), [中文](about_zh.md).**
+**其他语言版本: [English](README.md), [中文](README_zh.md).**
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
