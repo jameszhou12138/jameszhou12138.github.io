@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Zhou, a master degree candidate in Computer Technology of BUPT. My research focuses on self driving and bionic robots.
+I'm James Zhou, a master degree candidate in Computer Technology of Beijing University of Posts and Telecommunications (BUPT). My research focuses on self driving and bionic robots.
 
 ## Educational experience
 
