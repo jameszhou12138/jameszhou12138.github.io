@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Zhou, a master student, majaring in Computer Technology. My main research direction is self driving and bionic robots.
+I'm James Zhou, a master degree candidate in Computer Technology of BUPT. My research focuses on self driving and bionic robots.
 
-### Educational experience
+## Educational experience
 
 | Time | Degree | University | Major |
 | ---- | :----: | ---- | ---- |
@@ -17,7 +17,7 @@ I'm James Zhou, a master student, majaring in Computer Technology. My main resea
 | 2024.9 ~ now | Master | Beijing University of Posts and Telecommunications | Computer Technology |
 
 
-### Honors && Awards
+## Honors && Awards
 Some honors and awards in the last two years are shown as follows.
 
 | Time | Competition / Honor | Award | Level |
