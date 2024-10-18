@@ -58,7 +58,7 @@ Some honors and awards in the last two years are shown as follows.
 - English level: CET-4, CET-6
 - Hobbies: Basketball, billiards, games
 
-##
+<br><br>
 
 **Read this in other languages: [English](about.md), [中文](about_zh.md).**
 

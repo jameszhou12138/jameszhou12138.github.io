@@ -58,7 +58,7 @@ redirect_from:
 - 英语等级：CET-4、CET-6
 - 兴趣爱好：篮球、台球、游戏
 
-## 
+<br><br>
 
 **其他语言版本: [English](about.md), [中文](about_zh.md).**
 
