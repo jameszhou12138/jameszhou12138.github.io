@@ -53,8 +53,14 @@ Some honors and awards in the last two years are shown as follows.
   2. Organized and held 3 algorithm training and explanation, 2 programming competition lectures and other activities.
   3. During my tenure, I was awarded the title of "Excellent Student Leader" and the association was awarded the title of "Top Ten Student Associations in the 2022-2023 Academic Year".
 
+## Skills && Others 
+- Computer language: C/C++, Python, Java, Vue.js, wechat applet
+- English level: CET-4, CET-6
+- Hobbies: Basketball, billiards, games
 
-Read this in other languages: [English](about.md), [中文](about_zh.md).
+##
+
+**Read this in other languages: [English](about.md), [中文](about_zh.md).**
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

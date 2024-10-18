@@ -53,8 +53,14 @@ redirect_from:
   2. 组织举办 3 次算法培训和讲解、2 次程序设计竞赛讲座等活动。
   3. 任职期间，个人获“优秀学生干部”称号，社团获“2022-2023学年十佳学生社团”称号。
 
+## 技能和其他
+- 计算机语言：C/C++、Python、Java、Vue.js、微信小程序
+- 英语等级：CET-4、CET-6
+- 兴趣爱好：篮球、台球、游戏
 
-其他语言版本: [English](about.md), [中文](about_zh.md).
+## 
+
+**其他语言版本: [English](about.md), [中文](about_zh.md).**
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
