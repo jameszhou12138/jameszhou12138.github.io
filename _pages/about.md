@@ -16,6 +16,16 @@ I'm James Zhou, a master degree candidate in Computer Technology of Beijing Univ
 | 2020.9 ~ 2024.7 | Bachelor | Beijing Forestry University | Computer Science and Technology |
 | 2024.9 ~ now | Master | Beijing University of Posts and Telecommunications | Computer Technology |
 
+## Internship Experience
+**TuSimple**
+- Time: 2023.11 ~ 2024.3
+- Position: algorithm research and implementation
+- Restore the academic end-to-end control system. The system is run on the supplied mechanical dog for autonomous control.
+
+**State Grid Corporation of China -- China Electric Power Research Institute**
+- Time: 2024.3 ~ 2024.9
+- Position: Program development
+- Write a program to find the fault section of the waveform of the line, the main transformer and the bus record, and compare the fault.
 
 ## Honors && Awards
 Some honors and awards in the last two years are shown as follows.
@@ -32,8 +42,19 @@ Some honors and awards in the last two years are shown as follows.
 | 2023 | Interdisciplinary Contest In Modeling (ICM) | Honorable Mention | International |
 | 2023 | RAICOM Robot Developer Competition | Second Prize | National |
 | 2023 | "Challenge Cup" National College Student Business Plan Competition | Bronze Medal | National |
+| 2023 | Excellent Student Leader | -- | University |
 
-**Read this in other languages: [English](about.md), [中文](about_zh.md).**
+## Associations && Origanizations
+**ACM Lover Association of Beijing Forestry University**
+- Time: 2022.7 ~ 2023.7
+- Position: Program development
+- Works:
+  1. Organized 2 university-level programming competitions -- the 11th Beijing Forestry University Programming Competition for Freshmen and the 11th Beijing Forestry University Programming Competition.
+  2. Organized and held 3 algorithm training and explanation, 2 programming competition lectures and other activities.
+  3. During my tenure, I was awarded the title of "Excellent Student Leader" and the association was awarded the title of "Top Ten Student Associations in the 2022-2023 Academic Year".
+
+
+Read this in other languages: [English](about.md), [中文](about_zh.md).
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

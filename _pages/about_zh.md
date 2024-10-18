@@ -7,7 +7,7 @@ redirect_from:
   - /zh/about.html
 ---
 
-我是周子涵，北京邮电大学计算机技术专业硕士研究生研一在读。我的主要研究方向是自动驾驶和仿生机器人。
+我是周子涵，北京邮电大学计算机技术专业硕士研究生在读。我的主要研究方向是自动驾驶和仿生机器人。
 
 ## 教育经历
 
@@ -16,9 +16,19 @@ redirect_from:
 | 2020.9 ~ 2024.7 | 学士 | 北京林业大学 | 计算机科学与技术 |
 | 2024.9 ~ 今 | 硕士 | 北京邮电大学 | 计算机技术 |
 
+## 实习经历
+**1. 图森未来**
+- 时间：2023.11 ~ 2024.3
+- 职务：算法实习生
+- 复现学术界端到端控制系统。在提供的机械狗上运行系统，实现自主控制。
+
+**2. 国家电网——中国电力科学研究院**
+- 时间：2024.3 ~ 2024.9
+- 职务：程序开发
+- 编写程序找到线路、主变和母线录波的波形故障段，并对故障进行比对。
 
 ## 荣誉奖项
-本人近两年的一些荣誉奖项：
+本人近两年的部分荣誉奖项：
 
 | 时间 | 比赛/荣誉 | 奖项 | 等级 |
 | :----: | ---- | :----: | :----: |
@@ -32,8 +42,19 @@ redirect_from:
 | 2023 | 美国大学生数学建模竞赛（ICM） | 二等奖 | 国际级 |
 | 2023 | 睿抗机器人开发者大赛（RAICOM） | 二等奖 | 国家级 |
 | 2023 | “挑战杯”大学生创业计划竞赛 | 三等奖 | 国家级 |
+| 2023 | 优秀学生干部 | -- | 校级 |
 
-**其他语言版本: [English](about.md), [中文](about_zh.md).**
+## 社团和组织
+**北京林业大学ACM爱好者协会**
+- 时间：2022.7 ~ 2023.7
+- 职务：会长
+- 工作：
+  1. 组织举办 第十一届北京林业大学程序设计新生赛 和 第十一届北京林业大学程序设计竞赛 2 项校级程序设计赛事。
+  2. 组织举办 3 次算法培训和讲解、2 次程序设计竞赛讲座等活动。
+  3. 任职期间，个人获“优秀学生干部”称号，社团获“2022-2023学年十佳学生社团”称号。
+
+
+其他语言版本: [English](about.md), [中文](about_zh.md).
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
