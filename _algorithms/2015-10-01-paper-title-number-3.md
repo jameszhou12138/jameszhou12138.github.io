@@ -1,7 +1,7 @@
 ---
 title: "A3"
-collection: templates
-category: manuscripts
+collection: algorithms
+category: templates
 permalink: /algorithm/a3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
