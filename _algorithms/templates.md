@@ -3,8 +3,6 @@ title: "My Template"
 collection: algorithms
 category: templates
 permalink: /algorithm/my-template
-excerpt: 'My algorithm templates used on icpc and ccpc.'
-date: 2023-12-14
 ---
 
 [TOC]
