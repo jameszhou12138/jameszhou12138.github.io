@@ -3,9 +3,9 @@ title: "My Template"
 collection: algorithms
 category: templates
 permalink: /algorithm/my-template
+excerpt: 'My algorithm templates used on icpc and ccpc.'
 ---
 
-{% include toc %}
 
 ## 1. 时间复杂度
 
