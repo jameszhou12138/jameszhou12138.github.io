@@ -28,7 +28,7 @@ I'm James Zhou, a master degree candidate in Computer Technology of Beijing Univ
 - Write a program to find the fault section of the waveform of the line, the main transformer and the bus record, and compare the fault.
 
 ## Honors && Awards
-Some honors and awards in the last two years are shown as follows.
+Some honors and awards in the last two years:
 
 | Time | Competition / Honor | Award | Level |
 | :----: | ---- | :----: | :----: |
@@ -54,9 +54,9 @@ Some honors and awards in the last two years are shown as follows.
   3. During my tenure, I was awarded the title of "Excellent Student Leader" and the association was awarded the title of "Top Ten Student Associations in the 2022-2023 Academic Year".
 
 ## Skills && Others 
-- Computer language: C/C++, Python, Java, Vue.js, wechat applet
+- Computer language: C/C++, Python, Java, Vue.js, Wechat Applet
 - English level: CET-4, CET-6
-- Hobbies: Basketball, billiards, games
+- Hobbies: Basketball, Billiards, Chess, Computer Games
 
 <br><br>
 
