@@ -5,7 +5,7 @@ category: templates
 permalink: /algorithm/my-template
 ---
 
-[TOC]
+{% include toc %}
 
 ## 1. 时间复杂度
 
@@ -16,7 +16,7 @@ C++代码中的操作次数控制在 $10^7$ ~ $10^8$，不同数据范围下，�
 | $30$ | 指数级别| dfs+剪枝、状态压缩dp |
 | $100$ | $O(n^2)$ | floyd、dp、高斯消元 |
 | $1000$ | $O(n^2)，O(n^2\log{n})$ | dp、二分、朴素版Dijkstra、朴素版Prim、Bellman-Ford |
-| $10^4$ | $O(n*\sqrt{n})$ | 块状链表、分块、莫队 |
+| $10^4$ | $O(n\sqrt{n})$ | 块状链表、分块、莫队 |
 | $10^5$ | $O(n\log{n})$ | 各种sort、线段树、树状数组、setmap、heap、拓扑排序、dijkstra+heap、prim+heap、Kruskal、spfa、求凸包、求半平面交、二分、CDQ分治、整体二分、后缀数组、树链剖分、动态树 |
 | $10^6$ | $O(n)$ | 单调队列、hash、双指针扫描、BFS、并查集、kmp、AC自动机 |
 | $10^6$ | 常数较小的 $O(n\log{n})$ | sort、树状数组、heap、dijkstra、spfa |
