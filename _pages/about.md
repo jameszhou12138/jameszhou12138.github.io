@@ -12,7 +12,7 @@ I'm James Zhou, a master degree candidate in Computer Technology of Beijing Univ
 ## Educational experience
 
 | Time | Degree | University | Major |
-| ---- | :----: | ---- | ---- |
+| :----: | :----: | ---- | ---- |
 | 2020.9 ~ 2024.7 | Bachelor | Beijing Forestry University | Computer Science and Technology |
 | 2024.9 ~ now | Master | Beijing University of Posts and Telecommunications | Computer Technology |
 
