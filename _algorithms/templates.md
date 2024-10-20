@@ -2,7 +2,7 @@
 title: "My Template"
 collection: algorithms
 category: templates
-permalink: /algorithm/template
+permalink: /algorithm/my-template
 excerpt: 'My algorithm templates used on icpc and ccpc.'
 date: 2023-12-14
 ---
@@ -12,7 +12,8 @@ date: 2023-12-14
 ## 1. 时间复杂度
 
 C++代码中的操作次数控制在 $10^7$ ~ $10^8$
-下面给出在不同数据范围下，代码的时间复杂度和算法该如何选择，
+下面给出在不同数据范围下，代码的时间复杂度和算法该如何选择：
+
 | n | 时间复杂度 | 算法 |
 | :----: | :----: | ---- |
 | $30$ | 指数级别| dfs+剪枝、状态压缩dp |
