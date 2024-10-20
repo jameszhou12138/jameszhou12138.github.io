@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "James Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Master Degree candidate in Computer Technology of Beijing University of Posts and Telecommunications (BUPT)"
   location         : "Beijing, China"
   employer         : "BUPT"
   uri              : # URL
-  email            : "zihanzhou0112@gmail.com" 
+  email            : "zihanzhou0112@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "jameszhou12138"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
   csdn             : "https://blog.csdn.net/JamesZhou13?spm=1018.2226.3001.5343"
 
   # Social media
@@ -75,12 +75,21 @@ author:
   zhihu            : "https://www.zhihu.com/people/kingjames-55-91"
   xiaohongshu      : "https://www.xiaohongshu.com/user/profile/63051068000000000f004d60"
 
+# Algorithm Category - The following the list of Algorithm categories and their headings
+algorithms_category:
+  templates:
+    title: 'Templates'
+  competitions:
+    title: 'Competitions'
+  training:
+    title: 'Training'
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -213,6 +222,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  algorithms:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -229,6 +241,15 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _algorithms
+  - scope:
+      path: ""
+      type: algorithms
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _posts
   - scope:
       path: ""
