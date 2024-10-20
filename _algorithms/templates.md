@@ -3,7 +3,7 @@ title: "My Template"
 collection: algorithms
 category: templates
 permalink: /algorithm/my-template
-excerpt: 'My algorithm templates used on icpc and ccpc.'
+excerpt: 'The algorithm template created by myself.'
 ---
 <!-- 熟悉markdown都知道可以使用[TOC]自动生成markdown文件的标题目录，比如在typora，vscode(需要插件)等本地编辑器中，或者在CSDN等网页编辑器中，但是github却不支持[TOC]标签。
 
