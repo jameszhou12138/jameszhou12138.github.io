@@ -222,6 +222,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
   algorithms:
     output: true
     permalink: /:collection/:path/
@@ -241,6 +244,15 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _algorithms
   - scope:
       path: ""
