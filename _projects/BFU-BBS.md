@@ -5,10 +5,12 @@ collection: projects
 permalink: /project/BFU-BBS
 ---
 
-<img src="/images/bfu-bbs/ad-1.jpg" width="300"><br>
-<img src="/images/bfu-bbs/ad-2.jpg" width="300"><br>
-<img src="/images/bfu-bbs/ad-3.jpg" width="300"><br>
-<img src="/images/bfu-bbs/ad-4.jpg" width="300"><br>
-<img src="/images/bfu-bbs/ad-5.jpg" width="300"><br>
-<img src="/images/bfu-bbs/ad-6.jpg" width="300"><br>
-<img src="/images/bfu-bbs/ad-7.jpg" width="300"><br>
+<div align="center">
+    <img src="/images/bfu-bbs/ad-1.jpg" width="300"><br>
+    <img src="/images/bfu-bbs/ad-2.jpg" width="300"><br>
+    <img src="/images/bfu-bbs/ad-3.jpg" width="300"><br>
+    <img src="/images/bfu-bbs/ad-4.jpg" width="300"><br>
+    <img src="/images/bfu-bbs/ad-5.jpg" width="300"><br>
+    <img src="/images/bfu-bbs/ad-6.jpg" width="300"><br>
+    <img src="/images/bfu-bbs/ad-7.jpg" width="300"><br>
+</div>
