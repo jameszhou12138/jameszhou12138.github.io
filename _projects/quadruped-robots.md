@@ -3,6 +3,7 @@ title: "端到端机械狗运动控制系统的研究与实现"
 excerpt: "Research and Implementation of End-to-End Motion Control System of Quadruped Robots <br/><img src='/images/4leg/go1.png' width='200'>"
 collection: portfolio
 permalink: /project/quadruped-robots
+date: 2024-7-8
 ---
 
 我的本科毕业论文（设计），荣获北京市优秀本科毕业论文（设计）、北京林业大学优秀本科毕业论文（设计）。
