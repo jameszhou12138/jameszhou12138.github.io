@@ -1,6 +1,6 @@
 ---
 title: "BBS of Beijing Forestry University"
-excerpt: "the product with WeChat Applet written in my sophomore year.<br/><img src='/images/bfu-bbs/logo.png' height='100px' >"
+excerpt: "the product with WeChat Applet written in my sophomore year.<br/><img src='/images/bfu-bbs/logo.png' height='100' >"
 collection: projects
 permalink: /project/BFU-BBS
 ---
