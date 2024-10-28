@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Zhou, a master degree candidate in Computer Technology of Beijing University of Posts and Telecommunications (BUPT). My research focuses on self driving and bionic robots.
+I'm James Zhou, a master degree candidate in Computer Technology of Beijing University of Posts and Telecommunications (BUPT).
+
+My research focuses on self-driving and bionic robots.
 
 ## Educational experience
 
@@ -19,7 +21,7 @@ I'm James Zhou, a master degree candidate in Computer Technology of Beijing Univ
 ## Internship Experience
 **TuSimple**
 - Time: 2023.11 ~ 2024.3
-- Position: algorithm research and implementation
+- Position: Algorithm research and implementation
 - Restore the academic end-to-end control system. The system is run on the supplied mechanical dog for autonomous control.
 
 **State Grid Corporation of China -- China Electric Power Research Institute**
@@ -47,7 +49,7 @@ Some honors and awards in the last two years:
 ## Associations && Origanizations
 **ACM Lover Association of Beijing Forestry University**
 - Time: 2022.7 ~ 2023.7
-- Position: Program development
+- Position: President
 - Works:
   1. Organized 2 university-level programming competitions -- the 11th Beijing Forestry University Programming Competition for Freshmen and the 11th Beijing Forestry University Programming Competition.
   2. Organized and held 3 algorithm training and explanation, 2 programming competition lectures and other activities.
