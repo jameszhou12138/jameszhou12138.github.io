@@ -4,6 +4,7 @@ collection: algorithms
 category: competitions
 permalink: /algorithm/competition/2023-icpc-shenyang
 date: 2023-11-12
+excerpt: ''
 ---
 
 My third medal in ICPC.

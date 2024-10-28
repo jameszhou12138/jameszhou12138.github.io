@@ -4,6 +4,7 @@ collection: algorithms
 category: competitions
 permalink: /algorithm/competition/2023-icpc-online
 date: 2023-09-23
+excerpt: ''
 ---
 
 Best ranking in Online Contest.
