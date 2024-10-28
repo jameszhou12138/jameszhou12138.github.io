@@ -13,7 +13,7 @@ date: 2022-1-12
 - 基于 Faster R-CNN 模型，实现了多物体分割和识别功能。
 
 <div align="center">
-    <img src="/images/lost-and-found/tech.png" width="300"><br>
+    <img src="/images/lost-and-found/tech.png" width="600"><br>
 </div>
 
 - 实现了模糊搜索算法、证件信息识别等算法的功能。
