@@ -1,6 +1,7 @@
 ---
 title: "2023 ICPC Asia Regionals Online Contest (II)"
 collection: algorithms
+type: "Talk"
 category: competitions
 permalink: /algorithm/competition/2023-icpc-online
 date: 2023-09-23
