@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'algorithms' %}
-          <p style="font-size: 12px; color: #888888; line-height: 1.2;">
+          <p style="font-size: 16px; color: #888888; line-height: 1.2;">
             {{ post.date | date: "%B %d, %Y" }}
           </p>
         {% elsif post.date %}
