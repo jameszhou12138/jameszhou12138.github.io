@@ -8,3 +8,12 @@ excerpt: ''
 ---
 
 My first medal in ICPC.
+
+拿下开门红！！！
+
+<div align="center">
+    <img src="/images/acm/2023-icpc-xian-team.jpg" width="300"><br>
+    <img src="/images/acm/2023-icpc-xian-medal.jpg" width="300"><br>
+</div>
+
+see more in [the board of xcpcio](https://board.xcpcio.com/icpc/48th/xian)

@@ -1,6 +1,6 @@
 ---
 title: "林里寻物"
-excerpt: "碳机制下的“林里寻物”去中心化服务平台——基于Faster R-CNN模型探索“寻++”新模式 <br/><img src='/images/lost-and-found/product.png' width='200'>"
+excerpt: "碳机制下的“林里寻物”去中心化服务平台——基于Faster R-CNN模型探索“寻++”新模式 <br/><img src='/images/lost-and-found/product.png' width='400'>"
 collection: portfolio
 permalink: /project/BFU-lost-and-found
 date: 2022-1-12

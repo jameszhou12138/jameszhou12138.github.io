@@ -78,7 +78,7 @@ author:
 # Algorithm Category - The following the list of Algorithm categories and their headings
 algorithm_category:
   templates:
-    title: 'Templates'
+    title: ''
   competitions:
     title: 'Competitions'
   training:

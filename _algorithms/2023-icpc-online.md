@@ -11,3 +11,5 @@ Best ranking in Online Contest.
 
 - School Ranking: 55
 - Team Ranking: 140 in 2726
+
+see more in [the board of xcpcio](https://board.xcpcio.com/icpc/48th/online-qualification-2)

@@ -1,6 +1,6 @@
 ---
 title: "左林右舍——北京林业大学高校论坛"
-excerpt: "BBS of Beijing Forestry University.<br/><img src='/images/bfu-bbs/logo.png' width='200'>"
+excerpt: "BBS of Beijing Forestry University.<br/><img src='/images/bfu-bbs/logo.png' width='400'>"
 collection: projects
 permalink: /project/BFU-BBS
 date: 2022-7-19
