@@ -3,7 +3,7 @@ title: "Algorithm Template"
 collection: algorithms
 category: templates
 permalink: /algorithm/template
-excerpt: ''
+excerpt: 'To be continued...'
 ---
 <!-- 熟悉markdown都知道可以使用[TOC]自动生成markdown文件的标题目录，比如在typora，vscode(需要插件)等本地编辑器中，或者在CSDN等网页编辑器中，但是github却不支持[TOC]标签。
 
@@ -149,6 +149,8 @@ sum[i, j] = 第i行j列格子左上部分所有元素的和
 ca[x1, y1] += c, ca[x2 + 1, y1] -= c, ca[x1, y2 + 1] -= c, ca[x2 + 1, y2 + 1] += c
 ```
 
+未完待续。。。
 
-## 3 kuangbin的模板
-<iframe src="https://jameszhou12138.github.io/files/kuangbin的ACM模板.pdf" width="800" height="800"></iframe>
+
+<!-- ## 3 kuangbin的模板
+<iframe src="https://jameszhou12138.github.io/files/kuangbin的ACM模板.pdf" width="800" height="800"></iframe> -->

@@ -72,8 +72,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/kingjames-55-91"
-  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/63051068000000000f004d60"
+  zhihu            : # "https://www.zhihu.com/people/kingjames-55-91"
+  xiaohongshu      : # "https://www.xiaohongshu.com/user/profile/63051068000000000f004d60"
 
 # Algorithm Category - The following the list of Algorithm categories and their headings
 algorithm_category:

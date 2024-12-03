@@ -7,7 +7,7 @@ redirect_from:
   - /zh/about.html
 ---
 
-我是周子涵，北京邮电大学计算机技术专业硕士研究生在读。我的主要研究方向是自动驾驶和仿生机器人。
+我是周子涵，北京邮电大学计算机技术专业硕士研究生在读。我的主要研究方向是自动驾驶、仿生机器人和大模型。
 
 ## 教育经历
 
@@ -33,15 +33,17 @@ redirect_from:
 | 时间 | 比赛/荣誉 | 奖项 | 等级 |
 | :----: | ---- | :----: | :----: |
 | 2024 | 北京市优秀本科毕业论文 | -- | 北京市级 |
-| 2024 | 团体程序设计天梯赛（CCCC-GPLT） | 一等奖 | 国家级 |
+| 2024 | 昇腾AI原生创新算子挑战赛（S2赛季） | 第11名 | 全国级 |
+| 2024 | 首届高校ICT产教融合创新大赛 | 三等奖 | 全国级 |
+| 2024 | 团体程序设计天梯赛（CCCC-GPLT） | 一等奖 | 全国级 |
 | 2024 | 百度Apollo星火自动驾驶竞赛 | 三等奖 | 北京市级 |
-| 2023 | 团体程序设计天梯赛（CCCC-GPLT） | 一等奖 | 国家级 |
-| 2023 | 中国大学生程序设计竞赛（CCPC）哈尔滨站 | 银牌 | 国家级 |
-| 2023 | 国际大学生程序设计竞赛（ICPC）亚洲区域赛沈阳站 | 铜牌 | 国家级 |
-| 2023 | 国际大学生程序设计竞赛（ICPC）亚洲区域赛西安站 | 铜牌 | 国家级 |
+| 2023 | 团体程序设计天梯赛（CCCC-GPLT） | 一等奖 | 全国级 |
+| 2023 | 中国大学生程序设计竞赛（CCPC）哈尔滨站 | 银牌 | 全国级 |
+| 2023 | 国际大学生程序设计竞赛（ICPC）亚洲区域赛沈阳站 | 铜牌 | 全国级 |
+| 2023 | 国际大学生程序设计竞赛（ICPC）亚洲区域赛西安站 | 铜牌 | 全国级 |
 | 2023 | 美国大学生数学建模竞赛（ICM） | 二等奖 | 国际级 |
-| 2023 | 睿抗机器人开发者大赛（RAICOM） | 二等奖 | 国家级 |
-| 2023 | “挑战杯”大学生创业计划竞赛 | 三等奖 | 国家级 |
+| 2023 | 睿抗机器人开发者大赛（RAICOM） | 二等奖 | 全国级 |
+| 2023 | “挑战杯”大学生创业计划竞赛 | 三等奖 | 全国级 |
 | 2023 | 优秀学生干部 | -- | 校级 |
 
 ## 社团和组织
@@ -56,11 +58,11 @@ redirect_from:
 ## 技能和其他
 - 计算机语言：C/C++、Python、Java、Vue.js、微信小程序
 - 英语等级：CET-4、CET-6
-- 兴趣爱好：篮球、台球、国际象棋、电子游戏
+- 兴趣爱好：篮球、国际象棋、台球、电子游戏
 
 <br><br>
 
-**其他语言版本: [English](about.md), [中文](about_zh.md).**
+**其他语言版本: [English](/), [中文](/zh/).**
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
